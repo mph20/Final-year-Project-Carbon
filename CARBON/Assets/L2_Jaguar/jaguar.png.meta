@@ -1,0 +1,1435 @@
+fileFormatVersion: 2
+guid: a169240d54a75e249bdf5b2a87a61e9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7765875821853148359
+    second: jaguar_0
+  - first:
+      213: 9023715271074426311
+    second: jaguar_1
+  - first:
+      213: 5031009464987519831
+    second: jaguar_2
+  - first:
+      213: -145190350584975477
+    second: jaguar_3
+  - first:
+      213: -6769003582769538246
+    second: jaguar_4
+  - first:
+      213: -4450585405242502647
+    second: jaguar_5
+  - first:
+      213: 6896226802913649387
+    second: jaguar_6
+  - first:
+      213: -6457166943805780349
+    second: jaguar_7
+  - first:
+      213: 4955406298033714031
+    second: jaguar_8
+  - first:
+      213: 1632797335499448899
+    second: jaguar_9
+  - first:
+      213: 3944289218049474177
+    second: jaguar_10
+  - first:
+      213: 7016900094363991915
+    second: jaguar_11
+  - first:
+      213: 6205752367518363288
+    second: jaguar_12
+  - first:
+      213: -7809410659423259704
+    second: jaguar_13
+  - first:
+      213: -5204859886739778892
+    second: jaguar_14
+  - first:
+      213: -1041807739100139665
+    second: jaguar_15
+  - first:
+      213: -7962792562706910116
+    second: jaguar_16
+  - first:
+      213: -8779365838216335266
+    second: jaguar_17
+  - first:
+      213: -3382965291685729510
+    second: jaguar_18
+  - first:
+      213: -4940074489169274452
+    second: jaguar_19
+  - first:
+      213: 3937499275401397126
+    second: jaguar_20
+  - first:
+      213: -9217289948017003553
+    second: jaguar_21
+  - first:
+      213: 6554515244918199846
+    second: jaguar_22
+  - first:
+      213: -1404140166726455339
+    second: jaguar_23
+  - first:
+      213: -5289751569755068552
+    second: jaguar_24
+  - first:
+      213: -6983462198071512637
+    second: jaguar_25
+  - first:
+      213: -6607008680114215174
+    second: jaguar_26
+  - first:
+      213: 4515228332633089519
+    second: jaguar_27
+  - first:
+      213: 1794280316660422858
+    second: jaguar_28
+  - first:
+      213: 1754209967194101371
+    second: jaguar_29
+  - first:
+      213: 3585032010476179039
+    second: jaguar_30
+  - first:
+      213: -1494586981497122865
+    second: jaguar_31
+  - first:
+      213: 1476933264849856185
+    second: jaguar_32
+  - first:
+      213: -3356853528787871358
+    second: jaguar_33
+  - first:
+      213: -893198068201834916
+    second: jaguar_34
+  - first:
+      213: 2055927763916256815
+    second: jaguar_35
+  - first:
+      213: 3741193455127209046
+    second: jaguar_36
+  - first:
+      213: -9208785170923531012
+    second: jaguar_37
+  - first:
+      213: -8006451366944094126
+    second: jaguar_38
+  - first:
+      213: 8662967119298570961
+    second: jaguar_39
+  - first:
+      213: 3007253554308715782
+    second: jaguar_40
+  - first:
+      213: -8723044500421980502
+    second: jaguar_41
+  - first:
+      213: 1135716263500092571
+    second: jaguar_42
+  - first:
+      213: 7027755833286363624
+    second: jaguar_43
+  - first:
+      213: 1655390232606095398
+    second: jaguar_44
+  - first:
+      213: 1073050891457910079
+    second: jaguar_45
+  - first:
+      213: -5624985616788547216
+    second: jaguar_46
+  - first:
+      213: 2261685942891731458
+    second: jaguar_47
+  - first:
+      213: 4905724988689903443
+    second: jaguar_48
+  - first:
+      213: 2648232341081225617
+    second: jaguar_49
+  - first:
+      213: 538870686706736347
+    second: jaguar_50
+  - first:
+      213: 5607821108734709067
+    second: jaguar_51
+  - first:
+      213: 4704462442461469552
+    second: jaguar_52
+  - first:
+      213: 2614140358799494935
+    second: jaguar_53
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jaguar_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 408
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888ad9e64b2848a46a66ed55d1a97ad0
+      internalID: 7765875821853148359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 408
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd04b8fd9b5b79a45832d64d7a46a1cb
+      internalID: 9023715271074426311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 408
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a331da39bbca04e8f3f513049d120f
+      internalID: 5031009464987519831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 408
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0c2773b3ff58442a4a5a2d100ed4fa
+      internalID: -145190350584975477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_4
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 408
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bdea70b8f413149aaf63a3810be803
+      internalID: -6769003582769538246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_5
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 408
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10faca650b29bd043a353ffca36b51cf
+      internalID: -4450585405242502647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_6
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 415
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9df5c39ab872ef4a8d5d846dfa3b983
+      internalID: 6896226802913649387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_7
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 422
+        width: 71
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f8ff67f458f1d438cbcefe557abcf4
+      internalID: -6457166943805780349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_8
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 408
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfe2ec1573c7fc4d8b482a943de2fba
+      internalID: 4955406298033714031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 327
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36acb3c811a61e498455e463e81775d
+      internalID: 1632797335499448899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 327
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6250bc62b5d32b347b4f993b84a3cf86
+      internalID: 3944289218049474177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 327
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73e1db7de24cd745bc48053a6b589d4
+      internalID: 7016900094363991915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_12
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 334
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad30c2a62f306c74ab54a0782ec71fe6
+      internalID: 6205752367518363288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 338
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a778ca06cdd63e24ab2a093ef17ab413
+      internalID: -7809410659423259704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 327
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9212f5b3345c8d34ea0cf9c8fed916ee
+      internalID: -5204859886739778892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_15
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 327
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cbd4100669727488d7b6a7f1e85940
+      internalID: -1041807739100139665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_16
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 327
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f1eaa787fa35e4e8bf4710fb8f7cbc
+      internalID: -7962792562706910116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_17
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 326
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fbd35727efe2142b4741791a5ee8f2
+      internalID: -8779365838216335266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 245
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edef95915065d2c40a54fd08f3cf9866
+      internalID: -3382965291685729510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 245
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751ffe346e1818344b7d08c7df42345c
+      internalID: -4940074489169274452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_20
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 245
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c769156927c885438aaffb75850b64f
+      internalID: 3937499275401397126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_21
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 245
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f31bc488a859b844ba7a346bee32972
+      internalID: -9217289948017003553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_22
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 257
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9810cb41c6cfcd04593943605dd2c0a6
+      internalID: 6554515244918199846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_23
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 245
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8320a6ba236237143ba84257ca2660c4
+      internalID: -1404140166726455339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_24
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 245
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59301962a6ec9b5449fee625f3502f94
+      internalID: -5289751569755068552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_25
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 245
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81bff82fc6dce742bd49fc392205cd2
+      internalID: -6983462198071512637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_26
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 245
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7286975442a7a7b49b179d9ab3fbf9a6
+      internalID: -6607008680114215174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 163
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcd8b3e7feceac449d5dc8c5525a3bb
+      internalID: 4515228332633089519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_28
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 163
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7996353bbaa5fa44b6b43b55c55c197
+      internalID: 1794280316660422858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_29
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 163
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9245aa096fbbb484c98e7c88e78ecf3a
+      internalID: 1754209967194101371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_30
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 163
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401ae7b7e8224bf499265a218c1e1fcc
+      internalID: 3585032010476179039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_31
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 163
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba8c7c0af148854eae389982248ec34
+      internalID: -1494586981497122865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_32
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 163
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60238d0a2695fe24c94e8b9bf5a07261
+      internalID: 1476933264849856185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_33
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 163
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8108e642b5659b94caa01118c7df79b1
+      internalID: -3356853528787871358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_34
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 163
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce4e1fc32d272e409bf7899fe74e45d
+      internalID: -893198068201834916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_35
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 163
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cce7a2bbcccf4499882d93da3442b6
+      internalID: 2055927763916256815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 84
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9704b8ba2e20ed948b8a4ba28277015f
+      internalID: 3741193455127209046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_37
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 84
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6278e35f4343cf041ab9101f80013995
+      internalID: -9208785170923531012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_38
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 84
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4acbc8534236242ba4626121f6bcca
+      internalID: -8006451366944094126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_39
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 81
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac947c8d6d463b5429d2e568012b9e97
+      internalID: 8662967119298570961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_40
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 82
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6260c970eca627b48b66deefd871dfb6
+      internalID: 3007253554308715782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_41
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 82
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4780aba1ca87a04cb73f09eab0e1402
+      internalID: -8723044500421980502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_42
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 81
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f74eba834823d46bf3975a1cf0a688
+      internalID: 1135716263500092571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_43
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 81
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce44b4297e47e834cad6ece9a5d18c7f
+      internalID: 7027755833286363624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_44
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 81
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3d9e08bc429c340acecdfc88bb8e47
+      internalID: 1655390232606095398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_45
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 7
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4c6f779d3008447ac94337940749fc
+      internalID: 1073050891457910079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_46
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 7
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3325e72ea1520c4182d94154176a2b4
+      internalID: -5624985616788547216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_47
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 7
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3eeb811bcfff646bb2567acc5240b7
+      internalID: 2261685942891731458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_48
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a459418806a8dcd4ba7ffdf9c19867a2
+      internalID: 4905724988689903443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_49
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71eda435033bf9b4eb7e6a4b82a6b810
+      internalID: 2648232341081225617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_50
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7670ab24357e4c04a905cf0d6a9268ad
+      internalID: 538870686706736347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_51
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 0
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1a2124bec201a40a8b00926087e172
+      internalID: 5607821108734709067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_52
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 0
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5ce1f88afa0de4887e760228b47924
+      internalID: 4704462442461469552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguar_53
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 0
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbb30515976a4f44a7e0874e86ba4df
+      internalID: 2614140358799494935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

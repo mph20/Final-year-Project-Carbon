@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boulder
+  - Wind
+  - Ground
+  - Enemy
+  - PBullet
+  - Turn
+  - EBullet
+  - Death
+  - sanode
+  - ausnode
+  - nanode
+  - asianode
+  - eunode
+  - anode
+  - afnode
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - Ice
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2549331893
+    locked: 0
+  - name: nodes
+    uniqueID: 1420952383
+    locked: 0
+  - name: Tiles
+    uniqueID: 1019163439
+    locked: 0
+  - name: Sprites
+    uniqueID: 3022715043
+    locked: 0
